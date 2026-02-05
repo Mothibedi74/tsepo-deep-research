@@ -1,0 +1,11 @@
+
+{
+  "name": "DeepResearch AI - Elite Competitive Intelligence",
+  "description": "Professional SaaS platform generating sales battlecards and kill scripts with live Gemini 3 Pro search grounding. Access at https://tsepo-deep-research-v2.vercel.app",
+  "requestFramePermissions": [],
+  "deployment": {
+    "target": "Vercel",
+    "region": "global",
+    "url": "https://tsepo-deep-research-v2.vercel.app"
+  }
+}
